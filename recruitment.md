@@ -3,6 +3,7 @@
 - Each task has a proper description and resources that can be helpful in implementing it.
 - Mention the task name in the README of your private GitHub repository.
 - It's okay to be completely new to this; please put in sincere efforts.
+- **`Easy` and `Medium` tasks will be evaluated as `Medium` or `Hard` if extra features are added.**
 
 ## Task 1: Student Directory
 Tag: `Easy`
