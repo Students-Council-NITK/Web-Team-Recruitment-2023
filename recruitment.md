@@ -2,7 +2,7 @@
 
 - Each task has a proper description and resources that can be helpful in implementing it.
 - Mention the task name in the README of your private GitHub repository.
-- It's completely okay to be completely new to this; please put in sincere efforts.
+- It's okay to be completely new to this; please put in sincere efforts.
 
 ## Task 1: Student Directory
 Tag: `Easy`
