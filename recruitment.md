@@ -11,6 +11,12 @@ Tag: `Easy`
 Picture a vibrant college community where students are eager to connect and collaborate. Your task is to develop a student directory that facilitates easy networking among students. Create a user-friendly directory where students can search and explore information about their peers based on different criteria. Let's bring students closer together with this interactive student directory!
 
 ### Resources
+- [W3Schools](https://www.w3schools.com/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Bootstrap Documentation](https://getbootstrap.com/docs/)
+- [jQuery Documentation](https://api.jquery.com/)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+
 
 
 ## Task 2: Events Calendar
