@@ -55,8 +55,10 @@ Tag: `Medium`
 Imagine being part of a lively college club where announcements need to be captivating and interactive. Your task is to develop an announcement board where administrators can share important updates and students can engage through comments and social media sharing. Let's turn announcements into moments that inspire and connect the club community!
 
 ### Resources
-- [Placeholder Resource 1](https://example.com/resource1)
-- [Placeholder Resource 2](https://example.com/resource2)
+- [Example App](https://friday.app/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Ffriday-marketing%2F85b9395e-dadd-4a97-8364-386527220b0a_posts-new.png%3Fauto%3Dcompress%2Cformat&w=1920&q=75)
+- [Realtime Communication using Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+- [Realtime Comment System](https://knock.app/blog/building-real-time-comments-with-socket-io-and-react)
+- [Role Based Access Control in Django](https://developer.auth0.com/resources/code-samples/api/django/basic-role-based-access-control)
 
 ## Task 6: Student Resource Sharing Platform
 Tag: `Hard`
