@@ -11,8 +11,7 @@ Tag: `Easy`
 Picture a vibrant college community where students are eager to connect and collaborate. Your task is to develop a student directory that facilitates easy networking among students. Create a user-friendly directory where students can search and explore information about their peers based on different criteria. Let's bring students closer together with this interactive student directory!
 
 ### Resources
-- [Placeholder Resource 1](https://example.com/resource1)
-- [Placeholder Resource 2](https://example.com/resource2)
+
 
 ## Task 2: Events Calendar
 Tag: `Easy`
@@ -21,8 +20,10 @@ Tag: `Easy`
 Imagine a bustling college club with numerous exciting activities and events throughout the year. Your task is to design and implement an events calendar that keeps students informed and engaged. Create an intuitive calendar that showcases upcoming club activities, meetings, and events. Let's make sure no student misses out on the fun!
 
 ### Resources
-- [Placeholder Resource 1](https://example.com/resource1)
-- [Placeholder Resource 2](https://example.com/resource2)
+- [FullCalendar](https://fullcalendar.io)
+- [Google Calendar API](https://developers.google.com/calendar)
+- [React Big Calendar](https://github.com/jquense/react-big-calendar)
+- [Moment.j](https://momentjs.com/)
 
 ## Task 3: Feedback Form
 Tag: `Easy`
@@ -45,8 +46,8 @@ Tag: `Medium`
 Visualize an exciting student election where students get to choose their representatives. Your task is to create an online voting system that allows students to nominate candidates, view candidate profiles, and cast their votes securely. Implement features like eligibility checks and real-time voting statistics. Let's empower students to make their voices heard in a transparent and engaging manner!
 
 ### Resources
-- [Placeholder Resource 1](https://example.com/resource1)
-- [Placeholder Resource 2](https://example.com/resource2)
+- [Twilio](https://www.twilio.com/en-us)
+- [Firebase](https://firebase.google.com)
 
 ## Task 5: Interactive Announcement Board
 Tag: `Medium`
