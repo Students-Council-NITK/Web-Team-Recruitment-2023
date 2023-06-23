@@ -60,6 +60,11 @@ Tag: `Hard`
 ### Description
 Visualize a platform where students can share and access valuable resources to enhance their academic journey. Your task is to build a comprehensive student resource sharing platform that promotes collaboration and learning. Develop a platform where students can upload and download study materials, lecture notes, and project samples. Let's create a hub of knowledge and support for students!
 
+* Bonus Task -
+  To make your platform more engaging and useful, you can add a rating and review system for the uploaded resources. Your task is to allow users to rate and review the resources they download or view, and display the average rating and reviews for each resource.
+
 ### Resources
-- [Placeholder Resource 1](https://example.com/resource1)
-- [Placeholder Resource 2](https://example.com/resource2)
+- [How to upload files using Firebase](https://medium.com/@puoygae/tutorial-how-to-upload-files-using-firebase-fbe598538c52)
+- [Using Firebase with React.js](https://www.makeuseof.com/upload-files-to-firebase-using-reactjs/)
+- [Using Django to Manage Files](https://docs.djangoproject.com/en/4.2/topics/files/)
+- [File Upload in Django](https://docs.djangoproject.com/en/4.2/topics/http/file-uploads/)
