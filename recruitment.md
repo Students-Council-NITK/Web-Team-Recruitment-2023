@@ -29,10 +29,14 @@ Tag: `Easy`
 
 ### Description
 Imagine being part of a dynamic college club where student opinions are valued and acted upon. Your task is to develop a feedback form that enables students to share their thoughts and suggestions about various aspects of the club. Create a user-friendly form where students can provide valuable feedback. Let's gather insights to shape the club's future!
-
+### Bonus Task  
+Ensure that the feedback form is accessible only to students with a nitk.edu.in domain. This restriction will allow only students with email addresses from the specified domain to submit feedback. By doing so, you can gather valuable insights exclusively from the target student group.
 ### Resources
-- [Placeholder Resource 1](https://example.com/resource1)
-- [Placeholder Resource 2](https://example.com/resource2)
+- [Making a Form](https://youtu.be/524ycUqs3f0)
+- [Using Firebase to store data](https://youtu.be/RAWHXRTKTHw)    
+### Tips:  
+1)You may use any Framework and database of your choice.  
+2)Use your creativity to make the UI as appealing and simple to use as possible.
 
 ## Task 4: Voting System for Student Elections
 Tag: `Medium`
