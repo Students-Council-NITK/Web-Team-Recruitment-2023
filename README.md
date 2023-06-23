@@ -10,6 +10,7 @@ Welcome to the Student Council Web Team Recruitment!
 2. You are free to use any framework of your choice for the task.
 3. Refer to the resources provided for each task to assist you during development.
 4. Code quality, best practices, and attention to detail will be evaluated.
+5. All tasks before submitting need to be under one repository. 
 
 ## Evaluation Criteria
 - Effort: We appreciate sincere efforts, even if you don't have prior experience in web development or are trying certain technologies or concepts for the first time. Show your enthusiasm, willingness to learn, and dedication in your work.
